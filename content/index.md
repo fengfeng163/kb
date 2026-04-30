@@ -12,24 +12,13 @@ title: Markナレッジベース
 
 ## 主なコンテンツ
 
-  
+（構築中）
+- [[软件开发技术]]
 
-- [[📚 読書ノート/index|読書ノート]]
-
-- [[💻 プログラミング/index|プログラミング]]
-
-- [[🎌 日本語学習/index|日本語学習]]
-
-  
-
+ 
 ## 最近更新したノート
 
-  
-
-- [[深い思考]]
-
-- [[Python基礎]]
-
+- [[spring boot 3.x笔记]]
   
 
 ## 連絡先
@@ -40,4 +29,3 @@ title: Markナレッジベース
 - blog: [Markの技術ブログ](https://fengfeng163.github.io/blog/)
 - CSDN: [NFTDigger](https://blog.csdn.net/sitebus)
 - CSDN Index Page: [NFTDigger Index](https://blog.csdn.net/sitebus/article/details/104474258)
-```
