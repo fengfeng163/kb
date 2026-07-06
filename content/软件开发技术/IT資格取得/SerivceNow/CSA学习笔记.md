@@ -19,6 +19,4 @@ Navigate to System Properties by typing **_sys_properties.list_** in the Filter 
 
 sys_properties.list 可以查看修改各种系统属性
 
-
-！[myfiles/CSA_with_discussion.pdf]
 [questions](myfiles/CSA_with_discussion.pdf)
